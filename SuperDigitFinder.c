@@ -67,3 +67,5 @@ int main() {
       return 0;
 }
 
+// Bu git çalışması için yapılmış bir yorumdur.
+
