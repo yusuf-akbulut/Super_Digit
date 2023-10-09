@@ -68,4 +68,5 @@ int main() {
 }
 
 // Bu git çalışması için yapılmış bir yorumdur.
+//feat1 branch'i için bir commit yorumu
 
