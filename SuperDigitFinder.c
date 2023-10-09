@@ -71,5 +71,3 @@ int main() {
 //feat1 branch'i için bir commit yorumu
 //feat1 2
 //feat1 3 
-
-//feat 1 4
